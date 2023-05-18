@@ -1,6 +1,6 @@
 {
-    "name": "jcchavezs/zipkin-instrumentation-symfony",
-    "description": "A Zipkin integration for Symfony applications",
+    "name": "shiishiji/zipkin-instrumentation-symfony",
+    "description": "A Zipkin integration for Symfony applications fork",
     "type": "symfony-bundle",
     "require": {
         "php": ">=8.0",
